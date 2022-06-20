@@ -6,7 +6,7 @@ set -e
 #                                                                           #
 # Project 'pterodactyl-installer'                                           #
 #                                                                           #
-# Copyright (C) 2018 - 2022, Vilhelm Prytz, <vilhelm@prytznet.se>           #
+# Copyright (C) 2018 - 2022, Ishan Fork Of Vilhelm Prytz, <>           #
 #                                                                           #
 #   This program is free software: you can redistribute it and/or modify    #
 #   it under the terms of the GNU General Public License as published by    #
@@ -21,15 +21,15 @@ set -e
 #   You should have received a copy of the GNU General Public License       #
 #   along with this program.  If not, see <https://www.gnu.org/licenses/>.  #
 #                                                                           #
-# https://github.com/vilhelmprytz/pterodactyl-installer/blob/master/LICENSE #
+# https://github.com/ishanjaiswal-cmd/Ptero-Istaller-/blob/main/LICENSE #
 #                                                                           #
 # This script is not associated with the official Pterodactyl Project.      #
-# https://github.com/vilhelmprytz/pterodactyl-installer                     #
+# https://github.com/ishanjaiswal-cmd/Ptero-Istaller-                     #
 #                                                                           #
 #############################################################################
 
 SCRIPT_VERSION="v0.11.0"
-GITHUB_BASE_URL="https://raw.githubusercontent.com/vilhelmprytz/pterodactyl-installer"
+GITHUB_BASE_URL="https://raw.githubusercontent.com/ishanjaiswal-cmd/Ptero-Istaller-"
 
 LOG_PATH="/var/log/pterodactyl-installer.log"
 
@@ -70,10 +70,10 @@ done=false
 
 output "Pterodactyl installation script @ $SCRIPT_VERSION"
 output
-output "Copyright (C) 2018 - 2022, Vilhelm Prytz, <vilhelm@prytznet.se>"
-output "https://github.com/vilhelmprytz/pterodactyl-installer"
+output "Copyright (C) 2018 - 2022, Ishan Fork Of Vilhelm Prytz, <>"
+output "https://github.com/ishanjaiswal-cmd/Ptero-Istaller-"
 output
-output "Sponsoring/Donations: https://github.com/vilhelmprytz/pterodactyl-installer?sponsor=1"
+output "Sponsoring/Donations: https://github.com/ishanjaiswal-cmd/Ptero-Istaller-"
 output "This script is not associated with the official Pterodactyl Project."
 
 output
